@@ -1,0 +1,20 @@
+#EXERCÍCIO 8 Implemente um programa que na primeira linha faça um print perguntando o nome do usuário e, na linha 2, chame a função input() para capturar o valor do teclado e armazenar na memória do computador.
+
+#Depois de concluído o exercício anterior, pode surgir uma dúvida, como recuperar o valor da memória? Para isso, teremos que usar algo como uma caixa que chamaremos de variavel. Essa variável pode ter qualquer nome desde que não começe com números e não tenha caracteres especiais.
+
+#Veja um exemplo ao criar uma variavel para armazenar o nome de uma pessoa em python, simplesmente digitamos o nomeDaVariavel + simolo de atribuiçãobolo de atribuição + valor
+
+nome1 = "Maria"
+nome2 = "José"
+nome3 = "Pedro"
+nome4 = "Roberta"
+nome5 = "Ana"
+
+print("Qual é o seu nome?")
+input()
+print()
+print(nome1)
+print(nome2)
+print(nome3)
+print(nome4)
+print(nome5)
